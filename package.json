@@ -9,6 +9,14 @@
   "bin": {
     "servelink": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamblesides/servelink.git"
+  },
   "author": "Nigel",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamblesides/servelink/issues"
+  },
+  "homepage": "https://github.com/shamblesides/servelink#readme"
 }
