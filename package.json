@@ -1,0 +1,14 @@
+{
+  "name": "servelink",
+  "version": "0.1.2",
+  "description": "Serve a simple webpage containing just an <a> tag with a given link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "servelink": "./index.js"
+  },
+  "author": "Nigel",
+  "license": "ISC"
+}
