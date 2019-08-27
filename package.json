@@ -1,6 +1,6 @@
 {
   "name": "servelink",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Serve a simple webpage containing just an <a> tag with a given link",
   "main": "index.js",
   "scripts": {
